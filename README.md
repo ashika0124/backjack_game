@@ -1,4 +1,5 @@
 # Blackjack game
+Blackjack Game website as a light HTML CSS and JS excercise - [Take a look](https://ashika0124.github.io/backjack_game/)
 The player has to get a hand with a value as close to 21 as possible without going over. 
 A hand that goes over 21 is a bust. 
 The players in a blackjack game plays against the dealer. Each player has to beat the dealer's hand in order to win.
